@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">VENYAMILIAFITRI_1202150243_Modul3</string>
+    <string name="title_label">News</string>
+    <string name="filler_text" />
+
+    <string-array name="drinks_titles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Le Minerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="drinks_info">
+        <item>Ini adalah air mineral merk Ades</item>
+        <item>Ini adalah air mineral merk Amidis</item>
+        <item>Ini adalah air mineral merk Aqua</item>
+        <item>Ini adalah air mineral merk Cleo</item>
+        <item>Ini adalah air mineral merk Club</item>
+        <item>Ini adalah air mineral merk Equil</item>
+        <item>Ini adalah air mineral merk Evian</item>
+        <item>Ini adalah air mineral merk Le Minerale</item>
+        <item>Ini adalah air mineral merk Nestle</item>
+        <item>Ini adalah air mineral merk Pristine</item>
+        <item>Ini adalah air mineral merk Vit</item>
+    </string-array>
+
+    <array name="drinks_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <string-array name="drinks_detail">
+        <item>Ades (sebelumnya pernah disebut AdeS) adalah merek air mineral atau air minum dalam kemasan (AMDK) yang diproduksi oleh PT. Coca-Cola Bottling Indonesia, Bekasi. Air mineral tersebut juga dikenal sebagai I-Lohas di Jepang. Kini The Coca-Cola Company merupakan pemilik merek dagang Ades, menggantikan PT. Akasha Wira Internasional atau PT. AdeS Waters Indonesia, pemilik merek dagang Ades sebelumnya.</item>
+        <item>Amidis adalah produk Air Minum Dalam Kemasan (AMDK) yang sudah diproduksi sejak tahun 1997 dan merupakan air minum distilasi pertama di Indonesia yang telah menjadi salah satu produk AMDK yang dipercaya karena kualitas mutu dan kemurniannya.</item>
+        <item>Aqua adalah sebuah merek air minum dalam kemasan (AMDK) yang diproduksi oleh PT Aqua Golden Mississippi Tbk di Indonesia sejak tahun 1973. Selain di Indonesia, Aqua juga dijual di Malaysia, Singapura, dan Brunei. Aqua adalah merek AMDK dengan penjualan terbesar di Indonesia dan merupakan salah satu merek AMDK yang paling terkenal di Indonesia, sehingga telah menjadi seperti merek generik untuk AMDK.</item>
+        <item>Cleo adalah air murni berkadar kemurnian 99,99% mengandung oksigen sampai dengan 8mg/L @ 20°C. Air Murni Cleo diambil dari mata air pegunungan dan diproses melalui hyper membrane filter 0,0001 mikron sehingga tidak mengandung mikroorganisme dan mineral anorganik, misalnya chlorine dan natrium fluoride.</item>
+        <item>Club adalah merek air minum dalam kemasan atau air mineral di Indonesia. Merek ini berasal dari Surabaya dan Pandaan, Pasuruan, Jawa Timur. Club diproduksi oleh PT Tirta Sukses Perkasa (dahulu PT Tirta Bahagia) sejak tahun 1986. Pada bulan November 2013, merek Club diakuisisi oleh PT Indofood CBP Sukses Makmur Tbk.</item>
+        <item>Equil adalah air mineral anorganik yang di produksi oleh PT Equilindo Asri. Sedang pemilik PT Equilindo Asri adalah Morgen Sutanto. Untuk .lokasi industrinya berada di Vila D’Equilibrium, dan pabrik pengemasan Equil terletak di kaki Gunung Salak, Sukabumi, Jawa Barat.</item>
+        <item>Evian (pengucapan bahasa Perancis: [evjɑ̃ ]) adalah sebuah merek air mineral Perancis yang berasal dari berbagai sumber dekat Évian-les-Bains, di pesisir selatan Lac Léman. Saat ini Evian dimiliki oleh Groupe Danone, sebuah perusahaan multinasional Perancis. Selain air mineral, Groupe Danone memakai nama Evian untuk jajaran produk perawatan kulit organik serta sebuah resor mewah di Perancis.</item>
+        <item>Le Minerale adalah air mineral baru dari Mayora, berupa air mineral pegunungan yang mengandung mineral alami yang dibutuhkan tubuh sehari-hari. Le Minerale, diolah dari sumber mata air pegunungan terpilih, sehingga memiliki kesegaran khas yang ditandai dengan sedikit rasa manis. Kesegaran khas ini berasal dari seimbangnya jumlah kandungan mineral alami dalam Le Minerale.</item>
+        <item>Nestle Water di Amerika Utara yang sudah memproduksi merk PureLife. Pemasarannya sendiri dilakukan di Amerika Serikat dan Kanada. Di AS sendiri, Nestle PureLife merupakan air murni yang disaring. Pada tahun 2006, merk ini menjadi andalan utama perusahaan. Dua tahun kemudian, Nestle PureLife bahkan menjadi merk paling terkemuka di dunia.</item>
+        <item>Pristine murni dan asli berasal dari Pegunungan Pangrango Gede, 30 mil dari Jakarta Selatan ( 1.5 jam dari Jakarta Pusat),berlokasi disamping Taman Nasional Pangrango Gede. Pristine bukan Air Mineral biasa karena Pristine bukan hanya sekedar menghilangkan dahaga, tapi juga bermanfaat bagi kesehatan.</item>
+        <item>Vit adalah sebuah merek air minum dalam kemasan (AMDK) yang diproduksi oleh PT Tirta Investama di Indonesia. Mulai diproduksi sejak tanggal 16 November 1982 dan awalnya dimiliki oleh PT Varia Industri Tirta. Pada tanggal 17 Juli 1987 kepemilikan PT Varia Industri Tirta beralih kepada Tirto Utomo. Sebelas tahun kemudian, setelah melakukan merger dengan PT Varia Industri Tirta, PT Tirta Investama menjadi pemilik merek Vit.</item>
+    </string-array>
+
+</resources>
